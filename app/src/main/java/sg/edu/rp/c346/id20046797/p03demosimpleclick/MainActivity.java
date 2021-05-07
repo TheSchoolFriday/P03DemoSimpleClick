@@ -1,7 +1,6 @@
 package sg.edu.rp.c346.id20046797.p03demosimpleclick;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
