@@ -3,4 +3,6 @@
     <string name="enter">Enter Something</string>
     <string name="show">Display what the user types.</string>
     <string name="display">Display</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
 </resources>
